@@ -1,5 +1,5 @@
 {
-  "name": "vr-selection",
+  "name": "aframe-mock-template",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "aframe": "^0.8.2",
-    "budo": "^11.5.0"
+    "budo": "^11.5.0",
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.27.1"
   }
 }
