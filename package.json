@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack-dev-server --mode=development & open http://localhost:8080/"
+    "dev": "webpack-dev-server --mode=development & open http://localhost:8080/",
+    "lint": "eslint --fix src"
   },
   "author": "",
   "license": "ISC",
