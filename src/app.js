@@ -1,1 +1,3 @@
-require('aframe')
+import 'aframe'
+import './style.scss'
+
