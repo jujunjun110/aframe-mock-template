@@ -3,5 +3,6 @@
 
 # 使い方
 - 初期化 `npm install`
-- サーバー立ち上げ `npm run dev`
+- 開発用ローカルサーバー `npm run dev`
+- ビルド `npm run build`
 - Lint `npm run lint`
